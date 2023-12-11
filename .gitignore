@@ -1,0 +1,7 @@
++/
+env/
+.DS_Store
+desktop.ini
+__pycache__/*
+logs/
+run/
