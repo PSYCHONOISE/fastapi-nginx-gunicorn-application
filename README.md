@@ -4,7 +4,7 @@ If you make changes to the code, you can restart the service to apply to changes
 `sudo supervisorctl restart fastapi-app`
 
 Test that the NGINX configuration file is OK: 
-`sudo nginx -t`,
+`sudo nginx -t`
 
 Restart NGINX:
 `sudo systemctl restart nginx`
